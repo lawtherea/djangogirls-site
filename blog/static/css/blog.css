@@ -1,12 +1,12 @@
 .page-header {
-    background-color: #C25100;
+    background-color: #11808f;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
-    font-size: 36pt;
+    font-size: 42pt;
     text-decoration: none;
 }
 
@@ -16,6 +16,7 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+    font-size: 23pt;
 }
 
 .date {
@@ -42,5 +43,5 @@ h1, h2, h3, h4 {
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #000000;
+    color: #2f7f97;
 }
